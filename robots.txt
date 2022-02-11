@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://github.com/keluaran-togel/pon-5/sitemap.xml
